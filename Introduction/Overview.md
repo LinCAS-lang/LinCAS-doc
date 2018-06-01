@@ -1,6 +1,4 @@
----
-description: LinCAS-lang guide
----
+
 
 # Overview
 
