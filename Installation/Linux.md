@@ -2,10 +2,6 @@
 description: Installation on Linux
 ---
 
-# Requirements
-
-  * gcc version >= 5
-  * crystal compiler version >= 0.24.0
   
 # Installing
 
