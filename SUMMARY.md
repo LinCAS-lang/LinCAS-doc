@@ -16,4 +16,4 @@
     * [Null](Syntax_and_semantics/Literals/Null.md)
     * [Boolean](Syntax_and_semantics/Literals/Boolean.md)
     * [Integer](Syntax_and_semantics/Literals/Integer.md)
-    * Float
+    * [Float](Syntax_and_semantics/Literals/Float.md)
