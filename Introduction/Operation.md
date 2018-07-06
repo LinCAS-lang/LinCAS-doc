@@ -1,7 +1,7 @@
 # Simple operation
 
 The classical example would be the `Hello, world`, but here, a different, but not too far, example has been chosen.
-We will print the result of a sumple sum
+We will print the result of a simple sum
 
 ``` CoffeeScript
 printl 5 + 3

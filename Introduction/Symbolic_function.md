@@ -11,9 +11,9 @@ printl function.diff(${ x })
 #=> 2 + y
 ```
 
-This example would be clearer after reading all the documentation, but we can understand somethong as well.
+This example would be clearer after reading all the documentation, but we can understand something as well.
 
-* You can define local valiables without the need of declaring their types, and assignments use the convention
+* You can define local variables without the need of declaring their types, and assignments use the convention
   of `:=` 
 
   ```CoffeeScript
