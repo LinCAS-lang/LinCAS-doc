@@ -1,6 +1,6 @@
 # Symbol
 
-Symbols are used to identify names in the code. They are a substitute of a string in the code, as they are more comfortable to use.
+Symbols are used to identify names in the code. They are a substitute of a string in the script, as they are more comfortable to use.
 
 Symbols are usually created with the following sintax:
 
@@ -10,9 +10,9 @@ Symbols are usually created with the following sintax:
 :"12.3" # This is a symbol which needs quotes
 ```
 
-But they can be created using the #to_sym() methods or other ones
+But they can be created using the #to_sym() methods or other ones.
 
-The difference between a symbol and a string is that a symbol is unique trough the whole program.
+The difference between a symbol and a string is that a symbol is unique through the whole program.
 
 With an example:
 
@@ -30,6 +30,6 @@ module Two
 sym := :Frog
 ```
 
-In all the tree cases the object is the same, despite of the tree different context.
+In all the three cases the object is the same, despite of the three different contexts.
 
 

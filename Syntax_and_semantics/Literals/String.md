@@ -17,12 +17,12 @@ A string can span multiple lines:
 ```CoffeeScript
 "This 
   string 
-spans multiple 
+spans across multiple 
 lines"
 
 #=> This
       string
-    spans multiple
+    spans across multiple
     lines
 ```
 
