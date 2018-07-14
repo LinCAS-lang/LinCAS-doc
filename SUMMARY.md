@@ -24,3 +24,7 @@
     * [Hash](Syntax_and_semantics/Literals/Hash.md)
     * [Matrix](Syntax_and_semantics/Literals/Matrix.md)
     * [Symbolic](Syntax_and_semantics/Literals/Symbolic.md)
+  * [Assignment](Syntax_and_semantics/Assignment.md)
+  * [Local variables](Syntax_and_semantics/Local_variables.md)
+  * [Constants](Syntax_and_semantics/Constants.md)
+  * Control structures
