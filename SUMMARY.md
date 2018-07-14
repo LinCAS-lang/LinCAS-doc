@@ -19,3 +19,8 @@
     * [Float](Syntax_and_semantics/Literals/Float.md)
     * [String](Syntax_and_semantics/Literals/String.md)
     * [Symbol](Syntax_and_semantics/Literals/Symbol.md)
+    * [Range](Syntax_and_semantics/Literals/Range.md)
+    * [Array](Syntax_and_semantics/Literals/Array.md)
+    * [Hash](Syntax_and_semantics/Literals/Hash.md)
+    * [Matrix](Syntax_and_semantics/Literals/Matrix.md)
+    * [Symbolic](Syntax_and_semantics/Literals/Symbolic.md)
