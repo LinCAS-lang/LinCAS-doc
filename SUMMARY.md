@@ -27,4 +27,33 @@
   * [Assignment](Syntax_and_semantics/Assignment.md)
   * [Local variables](Syntax_and_semantics/Local_variables.md)
   * [Constants](Syntax_and_semantics/Constants.md)
-  * Control structures
+  * [Control structures](Syntax_and_semantics/Control_structures.md)
+    * [If](Syntax_and_semantics/If.md)
+    * [Select](Syntax_and_semantics/Select.md)
+    * [While](Syntax_and_semantics/While.md)
+    * [Until](Syntax_and_semantics/Until.md)
+    * [For](Syntax_and_semantics/For.md)
+  * [Types and methods](Syntax_and_semantics/Types_and_methods.md)
+    * [Everything is an object](Syntax_and_semantics/Everything_is_an_object.md)
+    * [The program](Syntax_and_semantics/The_program.md)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

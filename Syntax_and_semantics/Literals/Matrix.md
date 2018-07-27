@@ -1,6 +1,6 @@
 # Matrix
 
-A matrix represents a mathematical matrix containing generic values. This allows to make linear operations with matrices with
+A matrix represents a mathematical matrix containing generic values. This allows to make linear operations with matrices
 containing specific objects representing maths or other scientific datas.
  
 It can be built with a literal in this way
