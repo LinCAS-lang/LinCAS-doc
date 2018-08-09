@@ -36,6 +36,11 @@
   * [Types and methods](Syntax_and_semantics/Types_and_methods.md)
     * [Everything is an object](Syntax_and_semantics/Everything_is_an_object.md)
     * [The program](Syntax_and_semantics/The_program.md)
+    * [Classes and methods](Syntax_and_semantics/Classes_and_methods.md)
+      * [Methods](Syntax_and_semantics/Methods.md)
+      * [Classes](Syntax_and_semantics/Classes.md)
+      * [Instances and initialization](Syntax_and_semantics/Instances_and_init.md)
+      * [Static methods](Syntax_and_semantics/Static_methods.md)
     
     
     
