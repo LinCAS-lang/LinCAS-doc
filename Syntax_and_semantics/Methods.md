@@ -19,7 +19,7 @@ Where:
 
 Unless it is specified, all arguments a method takes are mandatory:
 
-```CofeeScript
+```javascript
 let sum(a,b) {
   return a + b
 }
@@ -70,7 +70,7 @@ In LinCAS every method has a receiver, that is the object the method is invoked 
 
 If a method is just called without an explicit receiver, this last one is taken from the current scope:
 
-``CoffeeScript
+```CoffeeScript
 # This method is declared in the main scope (or program)
 let foo() {
   puts self
