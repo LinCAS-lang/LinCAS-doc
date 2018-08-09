@@ -4,7 +4,7 @@ A method is a piece of code which can be called multiple times whenever it is ne
 
 The sintax is:
 
-```CofeeScript
+```coffee
 let method_name(<arguments>) {
   # Body
 }
@@ -19,7 +19,7 @@ Where:
 
 Unless it is specified, all arguments a method takes are mandatory:
 
-```javascript
+```coffee
 let sum(a,b) {
   return a + b
 }
@@ -32,7 +32,7 @@ sum(5)   #=> ArgumentError: Wrong number of arguments (1 instead of 2)
 
 Optional arguments are the ones a default value has been provided. If another value is passed when calling a method, the default one is overwritten.
 
-```CofeeScript
+```coffee
 let sum(a, b := 1) {
   return a + b
 }
@@ -45,13 +45,13 @@ sum(5,8) #=> 13
 
 The interpreter operates a method call everytime a name is followed by an opened and a closed parethesi (with possible arguments between them).
 
-```CoffeeScript
+```coffee
 my_method() #=> calls method 'my_method'
 ```
 
 A method call accepts an arbitrary number of arguments, but only the needed ones are taken. If the number is unsatisfactory, an error is raised.
 
-```CoffeeScript
+```coffee
 let sum(a,b) { return a +b }
 
 sum(3,4)        #=> 7
@@ -63,14 +63,14 @@ sum(8)          #=> ArgumentError: Wrong number of arguments (1 instead of 2)
 
 In LinCAS every method has a receiver, that is the object the method is invoked on:
 
-```CoffeeScript
+```coffee
 # here the receiver is '10'
 10.zero? () #=> false 
 ```
 
 If a method is just called without an explicit receiver, this last one is taken from the current scope:
 
-```CoffeeScript
+```coffee
 # This method is declared in the main scope (or program)
 let foo() {
   puts self
@@ -85,7 +85,7 @@ Other details will be explained later
 
 A method always returns the values of the last executed expression. However an explicit `return` is supported
 
-```CoffeeScript
+```coffee
 # Method with no explicit return
 let foo() { "Foo" }
 foo() #=> Foo
