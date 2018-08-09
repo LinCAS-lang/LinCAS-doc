@@ -5,11 +5,11 @@ It is the same concept of class (or singleton) methods in other languages such a
 
 To define a static method, you have to put the keyword `slef` (or the class name) before its name
 
-```CoffeeScript
+```coffee
 class Foo
 {
     let self.bar() {
-        printl "I'm a class method"
+        printl "I am a class method"
     }
     
     let Foo.baz() {
@@ -17,7 +17,7 @@ class Foo
     }
 }
 
-Foo.bar() #=> I'm a class method
+Foo.bar() #=> I am a class method
 Foo.baz() #=> Bazz
 ```
 
