@@ -2,7 +2,7 @@
 
 A bit more interesting example is a symbolic function:
 
-```coffeescript
+```javascript
 function := ${ 2 * x + x * y }
 printl "Calculating df/dx of ".concat( function.to_s() )
 printl function.diff(${ x })
