@@ -1,64 +1,45 @@
 # Table of contents
 
-* [Introduction](Introduction/Introduction.md)
-* [Installation](Installation/Installation.md)
-  * [Requirements](Installation/Requirements.md)
-  * [On Linux](Installation/Linux.md)
-  * [On Windows](Installation/Windows.md)
-* [Using the interpreter](Using_the_interpreter/README.md)
-* [Overview and Examples](Introduction/Overview.md)
-  * [Overview](Introduction/Overview.md)
-  * [Simple operation](Introduction/Operation.md)
-  * [Symbolic function](Introduction/Symbolic_function.md)
-* [Syntax and semantics](Syntax_and_semantics/README.md)
-  * [Comments](Syntax_and_semantics/Comments.md)
-  * [Literals](Syntax_and_semantics/Literals.md)
-    * [Null](Syntax_and_semantics/Literals/Null.md)
-    * [Boolean](Syntax_and_semantics/Literals/Boolean.md)
-    * [Integer](Syntax_and_semantics/Literals/Integer.md)
-    * [Float](Syntax_and_semantics/Literals/Float.md)
-    * [String](Syntax_and_semantics/Literals/String.md)
-    * [Symbol](Syntax_and_semantics/Literals/Symbol.md)
-    * [Range](Syntax_and_semantics/Literals/Range.md)
-    * [Array](Syntax_and_semantics/Literals/Array.md)
-    * [Hash](Syntax_and_semantics/Literals/Hash.md)
-    * [Matrix](Syntax_and_semantics/Literals/Matrix.md)
-    * [Symbolic](Syntax_and_semantics/Literals/Symbolic.md)
-  * [Assignment](Syntax_and_semantics/Assignment.md)
-  * [Local variables](Syntax_and_semantics/Local_variables.md)
-  * [Constants](Syntax_and_semantics/Constants.md)
-  * [Control structures](Syntax_and_semantics/Control_structures.md)
-    * [If](Syntax_and_semantics/If.md)
-    * [Select](Syntax_and_semantics/Select.md)
-    * [While](Syntax_and_semantics/While.md)
-    * [Until](Syntax_and_semantics/Until.md)
-    * [For](Syntax_and_semantics/For.md)
-  * [Types and methods](Syntax_and_semantics/Types_and_methods.md)
-    * [Everything is an object](Syntax_and_semantics/Everything_is_an_object.md)
-    * [The program](Syntax_and_semantics/The_program.md)
-    * [Classes and methods](Syntax_and_semantics/Classes_and_methods.md)
-      * [Methods](Syntax_and_semantics/Methods.md)
-      * [Classes](Syntax_and_semantics/Classes.md)
-      * [Instances and initialization](Syntax_and_semantics/Instances_and_init.md)
-      * [Static methods](Syntax_and_semantics/Static_methods.md)
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+* [Introduction](README.md)
+* [Introduction](introduction.md)
+* [Installation](installation/README.md)
+  * [Requirements](installation/requirements.md)
+  * [On Linux](installation/linux.md)
+  * [On Windows](installation/windows.md)
+* [Using the interpreter](using_the_interpreter.md)
+* [Overview and Examples](overview/README.md)
+  * [Overview](overview/overview.md)
+  * [Simple operation](overview/operation.md)
+  * [Symbolic function](overview/symbolic_function.md)
+* [Syntax and semantics](syntax_and_semantics/README.md)
+  * [Comments](syntax_and_semantics/comments.md)
+  * [Literals](syntax_and_semantics/literals/README.md)
+    * [Null](syntax_and_semantics/literals/null.md)
+    * [Boolean](syntax_and_semantics/literals/boolean.md)
+    * [Integer](syntax_and_semantics/literals/integer.md)
+    * [Float](syntax_and_semantics/literals/float.md)
+    * [String](syntax_and_semantics/literals/string.md)
+    * [Symbol](syntax_and_semantics/literals/symbol.md)
+    * [Range](syntax_and_semantics/literals/range.md)
+    * [Array](syntax_and_semantics/literals/array.md)
+    * [Hash](syntax_and_semantics/literals/hash.md)
+    * [Matrix](syntax_and_semantics/literals/matrix.md)
+    * [Symbolic](syntax_and_semantics/literals/symbolic.md)
+  * [Assignment](syntax_and_semantics/assignment.md)
+  * [Local variables](syntax_and_semantics/local_variables.md)
+  * [Constants](syntax_and_semantics/constants.md)
+  * [Control structures](syntax_and_semantics/control_structures/README.md)
+    * [If](syntax_and_semantics/control_structures/if.md)
+    * [Select](syntax_and_semantics/control_structures/select.md)
+    * [While](syntax_and_semantics/control_structures/while.md)
+    * [Until](syntax_and_semantics/control_structures/until.md)
+    * [For](syntax_and_semantics/control_structures/for.md)
+  * [Types and methods](syntax_and_semantics/types_and_methods/README.md)
+    * [Everything is an object](syntax_and_semantics/types_and_methods/everything_is_an_object.md)
+    * [The program](syntax_and_semantics/types_and_methods/the_program.md)
+    * [Classes and methods](syntax_and_semantics/types_and_methods/classes_and_methods/README.md)
+      * [Methods](syntax_and_semantics/types_and_methods/classes_and_methods/methods.md)
+      * [Classes](syntax_and_semantics/types_and_methods/classes_and_methods/classes.md)
+      * [Instances and initialization](syntax_and_semantics/types_and_methods/classes_and_methods/instances_and_init.md)
+      * [Static methods](syntax_and_semantics/types_and_methods/classes_and_methods/static_methods.md)
+
